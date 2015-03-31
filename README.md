@@ -4,8 +4,6 @@ Use a Raspberry Pi, GPIO and a push switch to turn on and off a light connected 
 
 Inspired by O'Reilly's Connecting a Push Switch tutorial (http://razzpisampler.oreilly.com/ch07.html)
 
-Tutorial can be found here: 
-
 **Overview:** 
 Turn on and off a Hue-connected light remotely with a push switch wired to GPIO pin 18. 
 
